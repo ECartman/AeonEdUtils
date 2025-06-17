@@ -22,5 +22,5 @@ module com.aeongames.edi.utils {
     exports com.aeongames.edi.utils.datatransfer;
     exports com.aeongames.edi.utils.error;
     exports com.aeongames.edi.utils.threading;
-    
+    exports com.aeongames.edi.utils.common;    
 }
